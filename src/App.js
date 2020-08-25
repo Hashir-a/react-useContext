@@ -1,8 +1,7 @@
-import React, { useState, useReducer } from 'react';
+import React, { useState} from 'react';
 import './App.css';
 import Parent from './Parent';
 import Valuecontext from './ValueContext';
-import numberReducer from './numberReducer';
 import './style.css';
 function App() {
   //let [number,setNumber] = useState(45);
